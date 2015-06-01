@@ -1,2 +1,1 @@
-# food
-# food
+Example of a food ordering program.
